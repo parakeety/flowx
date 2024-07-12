@@ -6,3 +6,4 @@ export * from "./v3/buildTxRemoveLiquidV3";
 export * from "./v3/getTxCollectRewardLiquidV3";
 export * from "./v3/queries/getTickClmm";
 export * from "./v3/getListPoolLiquidV3"
+export * from "./v3/getPoolV3Info"
